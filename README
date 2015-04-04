@@ -1,1 +1,3 @@
 Generates an MD5 filter list from images selected from the archives' commonly reposted images pages.
+
+Install (Greasemonkey / Tampermonkey): https://ccd0.github.io/md5-picker/md5-picker.user.js
